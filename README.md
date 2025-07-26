@@ -1,5 +1,5 @@
 # my-First-AI-agent-
-# Smart Research Agent v2.0 🧠
+# Smart Research Agent 🧠
 
 ![AI Agent Demo](https://img.shields.io/badge/AI-Agent-blueviolet )
 ![Python Version](https://img.shields.io/badge/Python-3.9+-blue )
