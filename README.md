@@ -1,4 +1,4 @@
-# my-First-AI-agent-
+ 
 # Smart Research Agent 🧠
  
 
@@ -63,4 +63,4 @@ The agent's "brain" is powered by **OpenAI's LLM**, which is the industry standa
     ```bash
     python agent.py
     ```
-    The first time you run the script, it may take a minute to download the local embedding model. The agent will then run two example questions to demonstrate its capabilities. Feel free to edit the questions at the bottom of `agent.py` to ask it anything you want!
+    The first time you run the script, it may take a minute to download the local embedding model. The agent will then run two example questions to demonstrate its capabilities. Feel free to ask it anything you want!
